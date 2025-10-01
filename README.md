@@ -49,7 +49,7 @@ map.html:
         </center>
     </body>
 </html>
-```
+
 saveetha.html:
 
 <html>
@@ -80,7 +80,7 @@ Saveetha Engineering College (SEC), established in 2001 and located in Thandalam
 </p>
 </body>
 </html>
-```
+
 panimalar.html:
 
 <html>
@@ -112,7 +112,7 @@ Panimalar Engineering College is a private Christian minority institution locate
 </p>
 </body>
 </html>
-```
+
 RIT.html:
 <html>
 <head>
@@ -142,7 +142,7 @@ RIT.html:
 Rajalakshmi Institute of Technology (RIT) is a private autonomous engineering college located in Chennai, Tamil Nadu. Established in 2008, it is affiliated with Anna University and approved by AICTE. The institute holds accreditations from NBA for various programs and has been awarded an A++ grade by NAAC, reflecting its strong academic standards. RIT offers a range of undergraduate programs such as B.E. in Computer Science and Engineering, Electronics and Communication Engineering, Mechanical Engineering, as well as newer courses like Artificial Intelligence & Data Science and Computer Science & Business Systems. It also offers postgraduate programs and Ph.D. research opportunities. The campus is spread over nearly 11 acres and includes well-equipped academic blocks, modern laboratories, digital classrooms, a central library, and facilities for sports and fitness. RIT places a strong emphasis on placements, with a consistent record of over 95% placement rates and top packages reaching up to ₹44 LPA, while the average packages typically range between ₹4–5 LPA. The institute is known for its focus on emerging technologies, industry-aligned curriculum, and student development. However, students are advised to consider factors like hostel conditions, total fee structure, and branch-specific opportunities when making a decision.
 </p>
 </body>
-```
+
 queensland.html:
 
 <html>
@@ -177,7 +177,7 @@ Queens Land Amusement and Water Park in Chennai is a popular entertainment desti
 </p>
 </body>
 </html>
-```
+
 vels cinema:
 <html>
 <head>
